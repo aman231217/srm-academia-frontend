@@ -8,7 +8,7 @@ There are different modules in the website which increases the ease of using the
 
 Users can get the important information and details of the college directly from the website and can proceed for further process easily.
 
-Developed using Angular
+This project is developed using Angular CLI 13.2.4
 
 ![](1.jfif)
 ![](2.jfif)
