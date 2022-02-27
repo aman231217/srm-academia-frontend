@@ -12,4 +12,3 @@ Developed using React Js.
 
 ![](1.jfif)
 ![](2.jfif)
-![](3.jfif)
