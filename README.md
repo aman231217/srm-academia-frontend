@@ -1,4 +1,4 @@
-# SRM ACADEMIA FRONTEND
+# SRM ACADEMIA FRONTEND WEBSITE
 
 This is SRM University Frontend Website.
 
@@ -8,7 +8,7 @@ There are different modules in the website which increases the ease of using the
 
 Users can get the important information and details of the college directly from the website and can proceed for further process easily.
 
-This project is developed using Angular CLI 13.2.4
+This project is developed using Angular CLI 13.2.5
 
 ![](1.jfif)
 ![](2.jfif)
